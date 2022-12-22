@@ -9,3 +9,5 @@
 🧐 Algorithms, Machine Learning
 
 🌟 Card Magic, Cardistry, Calisthenics, Chess, Cubing, ...
+
+📧 junwang0510@hotmail.com
