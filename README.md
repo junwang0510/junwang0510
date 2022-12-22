@@ -6,6 +6,6 @@
 
 ⚙️ Software Engineer @[ARUW](https://aruw.org/)
 
-🧠 Algorithms, Machine Learning
+🧐 Algorithms, Machine Learning
 
 🌟 Card Magic, Cardistry, Calisthenics, Chess, Cubing, ...
