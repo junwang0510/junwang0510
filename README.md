@@ -1,5 +1,3 @@
-## Profile
-
 💻 CS Undergrad @[UW](https://www.cs.washington.edu/)
 
 🔬 Researcher @[Makeability Lab](https://makeabilitylab.cs.washington.edu/)
