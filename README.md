@@ -6,6 +6,6 @@
 
 🧐 Algorithms, Machine Learning
 
-🌟 Card Magic, Cardistry, Calisthenics, Chess, Cubing, ...
+🌟 Card Magic, Cardistry, Calisthenics, Chess, Cubing, Competitive Programming...
 
 📧 junwang0510@hotmail.com
