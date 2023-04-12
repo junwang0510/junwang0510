@@ -4,6 +4,6 @@
 
 ⚙️ Software Engineer @[ARUW](https://aruw.org/)
 
-🧐 HCI + AI
+🧐 HCI + AI (Multimodality, AI Alignment)
 
 🌟 Card Magic, Cardistry, Calisthenics, Chess, Cubing, Competitive Programming...
