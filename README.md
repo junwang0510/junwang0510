@@ -1,4 +1,4 @@
-🧠 HCI, CV, AR, A11y
+🧠 HCI, CV, AR, A11Y
 
 🔬 [Makeability Lab](https://makeabilitylab.cs.washington.edu/), [RAIVN Lab](https://raivn.cs.washington.edu/index.html)
 
